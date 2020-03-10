@@ -1,7 +1,7 @@
 *.class
 
 # for mobile tools
-.mtj .tmp\
+.mtj .tmp/
 
 #package files
 
@@ -13,4 +13,6 @@
 hs_err_pid*
 
 *.iml
-.idea\*
+.idea/
+target/
+out/
