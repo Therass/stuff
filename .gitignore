@@ -1,0 +1,18 @@
+*.class
+
+# for mobile tools
+.mtj .tmp/
+
+#package files
+
+*.jar
+*.war
+*.ear
+
+#ignore logs
+hs_err_pid*
+
+*.iml
+.idea/
+target/
+out/
